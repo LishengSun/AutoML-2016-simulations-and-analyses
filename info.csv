@@ -1,0 +1,31 @@
+	feat_num	feat_type	has_categorical	has_missing	is_sparse	label_num	metric	name	target_num	target_type	task	test_num	time_budget	train_num	usage	valid_num
+ADULT	24	'Mixed'	1	1	0	3	'f1_metric'	'adult'	3	'Binary'	'multilabel.classification'	9768	300	34190	'AutoML challenge 2014'	4884
+CADATA	16	'Numerical'	0	0	0	0	'r2_metric'	'cadata'	1	'Numerical'	'regression'	10640	200	5000	'AutoML challenge 2014'	5000
+DIGITS	1568	'Numerical'	0	0	0	10	'bac_metric'	'digits'	10	'Categorical'	'multiclass.classification'	35000	300	15000	'AutoML challenge 2014'	20000
+DOROTHEA	100000	'Binary'	0	0	1	2	'auc_metric'	'dorothea'	1	'Binary'	'binary.classification'	800	100	800	'AutoML challenge 2014'	350
+NEWSGROUPS	61188	'Numerical'	0	0	1	20	'pac_metric'	'newsgroups'	20	'Numerical'	'multiclass.classification'	3755	300	13142	'AutoML challenge 2014'	1877
+CHRISTINE	1636	'Numerical'	0	0	0	2	'bac_metric'	'christine'	1	'Binary'	'binary.classification'	2084	1200	5418	'AutoML challenge 2015'	834
+JASMINE	144	'Numerical'	0	0	0	2	'bac_metric'	'jasmine'	1	'Binary'	'binary.classification'	1756	1200	2984	'AutoML challenge 2015'	526
+MADELINE	259	'Numerical'	0	0	0	2	'bac_metric'	'madeline'	1	'Binary'	'binary.classification'	3240	1200	3140	'AutoML challenge 2015'	1080
+PHILIPPINE	308	'Numerical'	0	0	0	2	'bac_metric'	'philippine'	1	'Binary'	'binary.classification'	4664	1200	5832	'AutoML challenge 2015'	1166
+SYLVINE	20	'Numerical'	0	0	0	2	'bac_metric'	'sylvine'	1	'Binary'	'binary.classification'	10244	1200	5124	'AutoML challenge 2015'	5124
+ALBERT	78	'Numerical'	1	1	0	2	'f1_metric'	'albert'	1	'Categorical'	'binary.classification'	51048	1200	425240	'AutoML challenge 2014'	25526
+DILBERT	2000	'Numerical'	0	0	0	5	'pac_metric'	'dilbert'	5	'Categorical'	'multiclass.classification'	9720	1200	10000	'AutoML challenge 2014'	4860
+FABERT	800	'Numerical'	0	0	0	7	'pac_metric'	'fabert'	7	'Categorical'	'multiclass.classification'	2354	1200	8237	'AutoML challenge 2014'	1177
+ROBERT	7200	'Numerical'	0	0	0	10	'bac_metric'	'robert'	10	'Binary'	'multiclass.classification'	5000	1200	10000	'AutoML challenge 2014'	2000
+VOLKERT	180	'Numerical'	0	0	0	10	'pac_metric'	'volkert'	10	'Categorical'	'multiclass.classification'	7000	1200	58310	'AutoML challenge 2014'	3500
+ALEXIS	5000	'Numerical'	0	0	1	18	'auc_metric'	'alexis'	18	'Binary'	'multilabel.classification'	15569	1200	54491	'AutoML challenge 2014'	7784
+DIONIS	60	'Numerical'	0	0	0	355	'bac_metric'	'dionis'	355	'Categorical'	'multiclass.classification'	12000	1200	416188	'AutoML challenge 2014'	6000
+GRIGORIS	301561	'Numerical'	0	0	1	91	'auc_metric'	'grigoris'	91	'Categorical'	'multilabel.classification'	9920	1200	45400	'AutoML challenge 2014'	6486
+JANNIS	54	'Numerical'	0	0	0	4	'bac_metric'	'jannis'	4	'Categorical'	'multiclass.classification'	9851	1200	83733	'AutoML challenge 2014'	4926
+WALLIS	193731	'Numerical'	0	0	1	11	'auc_metric'	'wallis'	11	'Categorical'	'multiclass.classification'	8196	1200	10000	'AutoML challenge 2014'	4098
+EVITA	3000	'Numerical'	0	0	1	2	'auc_metric'	'evita'	1	'Categorical'	'binary.classification'	14000		20000	'AutoML challenge 2014'	8000
+FLORA	200000	'Numerical'	0	0	1	0	'a_metric'	'flora'	1	'Numerical'	'regression'	2000	1200	15000	'AutoML challenge 2014'	2000
+HELENA	27	'Numerical'	0	0	0	100	'bac_metric'	'helena'	100	'Categorical'	'multiclass.classification'	18628	1200	65196	'AutoML challenge 2014'	9314
+TANIA	47236	'Numerical'	0	0	1	95	'pac_metric'	'tania'	95	'Binary'	'multilabel.classification'	44635	1200	157599	'AutoML challenge 2014'	22514
+YOLANDA	100	'Numerical'	0	0	0	0	'r2_metric'	'yolanda'	1	'Numerical'	'regression'	30000	1200	400000	'AutoML challenge 2014'	30000
+ARTURO	400	'Numerical'	0	0	0	20	'f1_metric'	'arturo'	20	'Categorical'	'multiclass.classification'	2733	1200	9565	'AutoML challenge 2014'	1366
+CARLO	1070	'Numerical'	0	0	0	2	'pac_metric'	'carlo'	1	'Binary'	'binary.classification'	10000	1200	50000	'AutoML challenge 2014'	10000
+MARCO	15299	'Numerical'	0	0	1	24	'auc_metric'	'marco'	24	'Categorical'	'multilabel.classification'	20482	1200	163860	'AutoML challenge 2014'	20482
+PABLO	120	'Numerical'	0	0	0	0	'a_metric'	'pablo'	1	'Numerical'	'regression'	23565	1200	188524	'AutoML challenge 2014'	23565
+WALDO	270	'Mixed'	1	0	0	4	'bac_metric'	'waldo'	4	'Categorical'	'multiclass.classification'	2430	1200	19439	'AutoML challenge 2014'	2430
