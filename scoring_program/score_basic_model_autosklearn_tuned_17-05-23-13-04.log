@@ -1,0 +1,161 @@
+2017-05-23 13:04:31,704 basename: adult_test
+2017-05-23 13:04:31,723 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/adult_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/adult_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/adult_test_random_forest.predict']
+2017-05-23 13:04:32,047 ======= Set 1 (Adult_test_decision_tree): score(multilabelF1)=0.795174982040 =======
+2017-05-23 13:04:32,104 ======= Set 1 (Adult_test_k_nearest_neighbors): score(multilabelF1)=0.785491967183 =======
+2017-05-23 13:04:32,162 ======= Set 1 (Adult_test_random_forest): score(multilabelF1)=0.810888051911 =======
+2017-05-23 13:04:32,163 basename: albert_test
+2017-05-23 13:04:32,165 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/albert_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/albert_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/albert_test_random_forest.predict']
+2017-05-23 13:04:33,183 ======= Set 2 (Albert_test_decision_tree): score(binaryF1)=0.294169032540 =======
+2017-05-23 13:04:33,382 ======= Set 2 (Albert_test_k_nearest_neighbors): score(binaryF1)=-1.000000000000 =======
+2017-05-23 13:04:33,582 ======= Set 2 (Albert_test_random_forest): score(binaryF1)=-1.000000000000 =======
+2017-05-23 13:04:33,582 basename: alexis_test
+2017-05-23 13:04:33,584 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/alexis_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/alexis_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/alexis_test_random_forest.predict']
+2017-05-23 13:04:37,905 ======= Set 3 (Alexis_test_decision_tree): score(multilabelAUC)=0.256899530241 =======
+2017-05-23 13:04:41,125 ======= Set 3 (Alexis_test_k_nearest_neighbors): score(multilabelAUC)=0.000000000000 =======
+2017-05-23 13:04:44,341 ======= Set 3 (Alexis_test_random_forest): score(multilabelAUC)=0.150564806449 =======
+2017-05-23 13:04:44,341 basename: arturo_test
+2017-05-23 13:04:44,344 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/arturo_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/arturo_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/arturo_test_random_forest.predict']
+2017-05-23 13:04:44,700 ======= Set 4 (Arturo_test_decision_tree): score(multiclassF1)=0.587764265102 =======
+2017-05-23 13:04:44,763 ======= Set 4 (Arturo_test_k_nearest_neighbors): score(multiclassF1)=0.681911232169 =======
+2017-05-23 13:04:44,827 ======= Set 4 (Arturo_test_random_forest): score(multiclassF1)=0.773812994705 =======
+2017-05-23 13:04:44,827 basename: cadata_test
+2017-05-23 13:04:44,835 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/cadata_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/cadata_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/cadata_test_random_forest.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/cadata_test_ridge_regression.predict']
+2017-05-23 13:04:45,140 ======= Set 5 (Cadata_test_decision_tree): score(R2)=0.742185754739 =======
+2017-05-23 13:04:45,195 ======= Set 5 (Cadata_test_k_nearest_neighbors): score(R2)=0.752421013057 =======
+2017-05-23 13:04:45,249 ======= Set 5 (Cadata_test_random_forest): score(R2)=0.784467423396 =======
+2017-05-23 13:04:45,303 ======= Set 5 (Cadata_test_ridge_regression): score(R2)=0.694024114875 =======
+2017-05-23 13:04:45,303 basename: carlo_test
+2017-05-23 13:04:45,312 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/carlo_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/carlo_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/carlo_test_random_forest.predict']
+2017-05-23 13:04:45,582 ======= Set 6 (Carlo_test_decision_tree): score(binaryPAC)=-4.391439824501 =======
+2017-05-23 13:04:45,621 ======= Set 6 (Carlo_test_k_nearest_neighbors): score(binaryPAC)=-4.391439824501 =======
+2017-05-23 13:04:45,661 ======= Set 6 (Carlo_test_random_forest): score(binaryPAC)=-4.022523602118 =======
+2017-05-23 13:04:45,661 basename: christine_test
+2017-05-23 13:04:45,664 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/christine_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/christine_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/christine_test_random_forest.predict']
+2017-05-23 13:04:45,760 ======= Set 7 (Christine_test_decision_tree): score(binaryBAC)=0.425143953935 =======
+2017-05-23 13:04:45,771 ======= Set 7 (Christine_test_k_nearest_neighbors): score(binaryBAC)=0.467370441459 =======
+2017-05-23 13:04:45,781 ======= Set 7 (Christine_test_random_forest): score(binaryBAC)=0.493282149712 =======
+2017-05-23 13:04:45,781 basename: digits_test
+2017-05-23 13:04:45,784 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/digits_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/digits_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/digits_test_random_forest.predict']
+2017-05-23 13:04:47,956 ======= Set 8 (Digits_test_decision_tree): score(multiclassBAC)=0.000000000000 =======
+2017-05-23 13:04:48,471 ======= Set 8 (Digits_test_k_nearest_neighbors): score(multiclassBAC)=0.103025013689 =======
+2017-05-23 13:04:48,989 ======= Set 8 (Digits_test_random_forest): score(multiclassBAC)=0.000000000000 =======
+2017-05-23 13:04:48,989 basename: dilbert_test
+2017-05-23 13:04:48,998 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/dilbert_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/dilbert_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/dilbert_test_random_forest.predict']
+2017-05-23 13:04:49,548 ======= Set 9 (Dilbert_test_decision_tree): score(multiclassPAC)=-0.062586297763 =======
+2017-05-23 13:04:49,733 ======= Set 9 (Dilbert_test_k_nearest_neighbors): score(multiclassPAC)=0.491402378231 =======
+2017-05-23 13:04:49,918 ======= Set 9 (Dilbert_test_random_forest): score(multiclassPAC)=0.290386472118 =======
+2017-05-23 13:04:49,918 basename: dionis_test
+2017-05-23 13:04:49,928 predict_file: []
+2017-05-23 13:04:49,929 ======= Set 10 (Dionis_test): score(multiclassBAC)=ERROR =======
+2017-05-23 13:04:49,929 Missing prediction file dionis_test
+Traceback (most recent call last):
+  File "score.py", line 95, in <module>
+    if (predict_file == []): raise IOError('Missing prediction file {}'.format(basename))
+IOError: Missing prediction file dionis_test
+2017-05-23 13:04:49,930 basename: dorothea_test
+2017-05-23 13:04:49,936 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/dorothea_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/dorothea_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/dorothea_test_random_forest.predict']
+2017-05-23 13:04:49,978 ======= Set 11 (Dorothea_test_decision_tree): score(binaryAUC)=0.481994459834 =======
+2017-05-23 13:04:49,985 ======= Set 11 (Dorothea_test_k_nearest_neighbors): score(binaryAUC)=0.425172242347 =======
+2017-05-23 13:04:49,992 ======= Set 11 (Dorothea_test_random_forest): score(binaryAUC)=0.000000000000 =======
+2017-05-23 13:04:49,992 basename: evita_test
+2017-05-23 13:04:50,000 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/evita_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/evita_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/evita_test_random_forest.predict']
+2017-05-23 13:04:50,400 ======= Set 12 (Evita_test_decision_tree): score(binaryAUC)=0.202320866170 =======
+2017-05-23 13:04:50,561 ======= Set 12 (Evita_test_k_nearest_neighbors): score(binaryAUC)=0.284724779774 =======
+2017-05-23 13:04:50,719 ======= Set 12 (Evita_test_random_forest): score(binaryAUC)=0.265004290862 =======
+2017-05-23 13:04:50,719 basename: fabert_test
+2017-05-23 13:04:50,722 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/fabert_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/fabert_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/fabert_test_random_forest.predict']
+2017-05-23 13:04:50,908 ======= Set 13 (Fabert_test_decision_tree): score(multiclassPAC)=-0.181021276660 =======
+2017-05-23 13:04:50,963 ======= Set 13 (Fabert_test_k_nearest_neighbors): score(multiclassPAC)=-0.181007157974 =======
+2017-05-23 13:04:51,019 ======= Set 13 (Fabert_test_random_forest): score(multiclassPAC)=-0.181016415184 =======
+2017-05-23 13:04:51,019 basename: flora_test
+2017-05-23 13:04:51,022 predict_file: []
+2017-05-23 13:04:51,022 ======= Set 14 (Flora_test): score(A)=ERROR =======
+2017-05-23 13:04:51,022 Missing prediction file flora_test
+Traceback (most recent call last):
+  File "score.py", line 95, in <module>
+    if (predict_file == []): raise IOError('Missing prediction file {}'.format(basename))
+IOError: Missing prediction file flora_test
+2017-05-23 13:04:51,023 basename: grigoris_test
+2017-05-23 13:04:51,026 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/grigoris_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/grigoris_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/grigoris_test_random_forest.predict']
+2017-05-23 13:05:04,098 ======= Set 15 (Grigoris_test_decision_tree): score(multilabelAUC)=0.000090306444 =======
+2017-05-23 13:05:13,452 ======= Set 15 (Grigoris_test_k_nearest_neighbors): score(multilabelAUC)=0.000000000000 =======
+2017-05-23 13:05:22,811 ======= Set 15 (Grigoris_test_random_forest): score(multilabelAUC)=0.000000000000 =======
+2017-05-23 13:05:22,811 basename: helena_test
+2017-05-23 13:05:22,821 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/helena_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/helena_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/helena_test_random_forest.predict']
+2017-05-23 13:05:32,461 ======= Set 16 (Helena_test_decision_tree): score(multiclassBAC)=0.121241010043 =======
+2017-05-23 13:05:34,324 ======= Set 16 (Helena_test_k_nearest_neighbors): score(multiclassBAC)=0.145832434944 =======
+2017-05-23 13:05:36,193 ======= Set 16 (Helena_test_random_forest): score(multiclassBAC)=0.000000000000 =======
+2017-05-23 13:05:36,194 basename: jannis_test
+2017-05-23 13:05:36,201 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/jannis_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/jannis_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/jannis_test_random_forest.predict']
+2017-05-23 13:05:36,617 ======= Set 17 (Jannis_test_decision_tree): score(multiclassBAC)=0.383901372682 =======
+2017-05-23 13:05:36,706 ======= Set 17 (Jannis_test_k_nearest_neighbors): score(multiclassBAC)=0.348652509608 =======
+2017-05-23 13:05:36,793 ======= Set 17 (Jannis_test_random_forest): score(multiclassBAC)=0.353690938513 =======
+2017-05-23 13:05:36,794 basename: jasmine_test
+2017-05-23 13:05:36,804 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/jasmine_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/jasmine_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/jasmine_test_random_forest.predict']
+2017-05-23 13:05:36,863 ======= Set 18 (Jasmine_test_decision_tree): score(binaryBAC)=0.617312072893 =======
+2017-05-23 13:05:36,871 ======= Set 18 (Jasmine_test_k_nearest_neighbors): score(binaryBAC)=0.619589977221 =======
+2017-05-23 13:05:36,878 ======= Set 18 (Jasmine_test_random_forest): score(binaryBAC)=0.626423690205 =======
+2017-05-23 13:05:36,878 basename: madeline_test
+2017-05-23 13:05:36,882 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/madeline_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/madeline_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/madeline_test_random_forest.predict']
+2017-05-23 13:05:36,971 ======= Set 19 (Madeline_test_decision_tree): score(binaryBAC)=0.717359891718 =======
+2017-05-23 13:05:36,985 ======= Set 19 (Madeline_test_k_nearest_neighbors): score(binaryBAC)=0.811036728124 =======
+2017-05-23 13:05:36,998 ======= Set 19 (Madeline_test_random_forest): score(binaryBAC)=0.762876792508 =======
+2017-05-23 13:05:36,999 basename: marco_test
+2017-05-23 13:05:37,011 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/marco_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/marco_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/marco_test_random_forest.predict']
+2017-05-23 13:05:45,063 ======= Set 20 (Marco_test_decision_tree): score(multilabelAUC)=0.012639967496 =======
+2017-05-23 13:05:51,263 ======= Set 20 (Marco_test_k_nearest_neighbors): score(multilabelAUC)=0.000000000000 =======
+2017-05-23 13:05:57,479 ======= Set 20 (Marco_test_random_forest): score(multilabelAUC)=0.000000000000 =======
+2017-05-23 13:05:57,479 basename: newsgroups_test
+2017-05-23 13:05:57,487 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/newsgroups_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/newsgroups_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/newsgroups_test_random_forest.predict']
+2017-05-23 13:05:58,074 ======= Set 21 (Newsgroups_test_decision_tree): score(multiclassPAC)=-0.053190493645 =======
+2017-05-23 13:05:58,262 ======= Set 21 (Newsgroups_test_k_nearest_neighbors): score(multiclassPAC)=-0.053189461583 =======
+2017-05-23 13:05:58,448 ======= Set 21 (Newsgroups_test_random_forest): score(multiclassPAC)=-0.053173087487 =======
+2017-05-23 13:05:58,448 basename: pablo_test
+2017-05-23 13:05:58,458 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/pablo_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/pablo_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/pablo_test_random_forest.predict']
+2017-05-23 13:05:59,062 ======= Set 22 (Pablo_test_decision_tree): score(A)=0.267533953034 =======
+2017-05-23 13:05:59,182 ======= Set 22 (Pablo_test_k_nearest_neighbors): score(A)=0.133333050610 =======
+2017-05-23 13:05:59,301 ======= Set 22 (Pablo_test_random_forest): score(A)=0.285409764745 =======
+2017-05-23 13:05:59,301 basename: philippine_test
+2017-05-23 13:05:59,310 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/philippine_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/philippine_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/philippine_test_random_forest.predict']
+2017-05-23 13:05:59,419 ======= Set 23 (Philippine_test_decision_tree): score(binaryBAC)=0.541595197256 =======
+2017-05-23 13:05:59,439 ======= Set 23 (Philippine_test_k_nearest_neighbors): score(binaryBAC)=0.563464837050 =======
+2017-05-23 13:05:59,458 ======= Set 23 (Philippine_test_random_forest): score(binaryBAC)=0.593481989708 =======
+2017-05-23 13:05:59,458 basename: robert_test
+2017-05-23 13:05:59,469 predict_file: []
+2017-05-23 13:05:59,469 ======= Set 24 (Robert_test): score(multiclassBAC)=ERROR =======
+2017-05-23 13:05:59,469 Missing prediction file robert_test
+Traceback (most recent call last):
+  File "score.py", line 95, in <module>
+    if (predict_file == []): raise IOError('Missing prediction file {}'.format(basename))
+IOError: Missing prediction file robert_test
+2017-05-23 13:05:59,470 basename: sylvine_test
+2017-05-23 13:05:59,473 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/sylvine_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/sylvine_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/sylvine_test_random_forest.predict']
+2017-05-23 13:05:59,745 ======= Set 25 (Sylvine_test_decision_tree): score(binaryBAC)=0.866263178446 =======
+2017-05-23 13:05:59,787 ======= Set 25 (Sylvine_test_k_nearest_neighbors): score(binaryBAC)=0.919172198360 =======
+2017-05-23 13:05:59,828 ======= Set 25 (Sylvine_test_random_forest): score(binaryBAC)=0.895548613823 =======
+2017-05-23 13:05:59,829 basename: tania_test
+2017-05-23 13:05:59,835 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/tania_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/tania_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/tania_test_random_forest.predict']
+2017-05-23 13:06:32,581 ======= Set 26 (Tania_test_decision_tree): score(multilabelPAC)=-3.518868596635 =======
+2017-05-23 13:06:46,354 ======= Set 26 (Tania_test_k_nearest_neighbors): score(multilabelPAC)=-3.207414614658 =======
+2017-05-23 13:07:00,134 ======= Set 26 (Tania_test_random_forest): score(multilabelPAC)=-3.207414614658 =======
+2017-05-23 13:07:00,134 basename: volkert_test
+2017-05-23 13:07:00,150 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/volkert_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/volkert_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/volkert_test_random_forest.predict']
+2017-05-23 13:07:00,808 ======= Set 27 (Volkert_test_decision_tree): score(multiclassPAC)=-0.149577631008 =======
+2017-05-23 13:07:01,014 ======= Set 27 (Volkert_test_k_nearest_neighbors): score(multiclassPAC)=-0.149579691049 =======
+2017-05-23 13:07:01,219 ======= Set 27 (Volkert_test_random_forest): score(multiclassPAC)=-0.149578546972 =======
+2017-05-23 13:07:01,220 basename: waldo_test
+2017-05-23 13:07:01,229 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/waldo_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/waldo_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/waldo_test_random_forest.predict']
+2017-05-23 13:07:01,392 ======= Set 28 (Waldo_test_decision_tree): score(multiclassBAC)=0.430542889963 =======
+2017-05-23 13:07:01,417 ======= Set 28 (Waldo_test_k_nearest_neighbors): score(multiclassBAC)=0.444662174441 =======
+2017-05-23 13:07:01,440 ======= Set 28 (Waldo_test_random_forest): score(multiclassBAC)=0.550594005891 =======
+2017-05-23 13:07:01,440 basename: wallis_test
+2017-05-23 13:07:01,442 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/wallis_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/wallis_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/wallis_test_random_forest.predict']
+2017-05-23 13:07:02,128 ======= Set 29 (Wallis_test_decision_tree): score(multiclassBAC)=0.276244506869 =======
+2017-05-23 13:07:02,254 ======= Set 29 (Wallis_test_k_nearest_neighbors): score(multiclassBAC)=0.258959977762 =======
+2017-05-23 13:07:02,381 ======= Set 29 (Wallis_test_random_forest): score(multiclassBAC)=0.386341492566 =======
+2017-05-23 13:07:02,381 basename: yolanda_test
+2017-05-23 13:07:02,388 predict_file: ['/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/yolanda_test_decision_tree.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/yolanda_test_k_nearest_neighbors.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/yolanda_test_random_forest.predict', '/users/ao/lsun/Simulations/simulation_results/res/basic_model_autosklearn_tuned/yolanda_test_ridge_regression.predict']
+2017-05-23 13:07:03,234 ======= Set 30 (Yolanda_test_decision_tree): score(R2)=-0.000004691578 =======
+2017-05-23 13:07:03,387 ======= Set 30 (Yolanda_test_k_nearest_neighbors): score(R2)=-0.000004691578 =======
+2017-05-23 13:07:03,539 ======= Set 30 (Yolanda_test_random_forest): score(R2)=-0.000004691578 =======
+2017-05-23 13:07:03,692 ======= Set 30 (Yolanda_test_ridge_regression): score(R2)=-0.000004691578 =======
