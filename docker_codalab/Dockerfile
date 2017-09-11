@@ -25,6 +25,11 @@ RUN pip install pyyaml==3.11
 RUN pip install pyparsing==2.1.10
 RUN pip install pandas==0.17.0
 
+#install packages used by JamesLloyd
+RUN pip install matplotlib
+RUN apt-get update && apt-get install -y python-tk
+
+
 
 
 
