@@ -43,4 +43,7 @@ All curves shown in the report are stored in learning_curves/LearningCurvePng/.
 IV) Pure methods with default hp
 
 
+Note: for sameloss: r2 for regression, bac for classfication.
+
+
 
