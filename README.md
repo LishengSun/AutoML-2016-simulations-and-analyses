@@ -19,7 +19,7 @@ NOTE:
 I) Performance of winner solutions on all 30 datasets <br />
 This table reports the task-specific scores of winner solutions applied on all 30 datasets. 
 
-I.1) The predictions are saved in simulation_results/res/. To reproduce them, you can unzip winner_submission.zip and go to a certain winner submission folder, execute run.py either under env "Codalab-AutoML-env" (see "create_Codalab-AutoML-env_on_tipi.txt" for instructions) or using the docker image "lisesun/codalab_automl2016:3.0" I created for this purpose (https://cloud.docker.com/u/lisesun/repository/docker/lisesun/codalab_automl2016).
+I.1) The predictions are saved in simulation_results/res/. To reproduce them, you can unzip winner_submission.zip and go to a certain winner submission folder, execute run.py either under env "Codalab-AutoML-env" (see "create_Codalab-AutoML-env_on_tipi.txt" for instructions) or using the docker image "lisesun/codalab_automl2016:3.0" I created for this purpose (https://cloud.docker.com/u/lisesun/repository/docker/lisesun/codalab_automl2016). The predictions of basic models using default HP and auto-sklearn-tuned HP can be respectively reproduced using the 'lisesun/codalab_automl2016:3.0' and 'mfeurer/auto-sklearn' (https://hub.docker.com/r/mfeurer/auto-sklearn) images
 
 I.2) The scores are saved in scores_of_simulation_results. <br />
 To reproduce these scores, edit scoring_program/score.py so that it points to the right prediction files (see instructions in score.py for more detail) and execute it.
