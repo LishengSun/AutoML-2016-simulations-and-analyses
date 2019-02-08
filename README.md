@@ -15,11 +15,11 @@ NOTE:
 	2.2) simulation_results/res/: all predictions (pure methods, winner methods) are saved here. They are uploaded in small chunks to respect GitHub max file size. Please unzip them  to have the following dir structure: simulation_results/res/aad_freiburg, simulation_results/res/lise_sun (unzip lise_sun1.zip and lise_sun2.zip to lise_sun/), imulation_results/res/abhishek (unzip abhishek1.zip and abhishek2.zip to abhishek/), simulation_results/res/basic_model_autosklearn_tuned, etc…
 
 
-===========================More info========================================
+===========================More info======================================== <br />
 I) Performance of winner solutions on all 30 datasets <br />
 This table reports the task-specific scores of winner solutions applied on all 30 datasets. 
 
-I.1) The predictions are saved in simulation_results/res/. To reproduce them, you can unzip winner_submission.zip and go to a certain winner submission folder, execute run.py under env "Codalab-AutoML-env" (see "create_Codalab-AutoML-env_on_tipi.txt" for instructions)).
+I.1) The predictions are saved in simulation_results/res/. To reproduce them, you can unzip winner_submission.zip and go to a certain winner submission folder, execute run.py either under env "Codalab-AutoML-env" (see "create_Codalab-AutoML-env_on_tipi.txt" for instructions) or using the docker image "lisesun/codalab_automl2016:3.0" I created for this purpose (https://cloud.docker.com/u/lisesun/repository/docker/lisesun/codalab_automl2016).
 
 I.2) The scores are saved in scores_of_simulation_results. <br />
 To reproduce these scores, edit scoring_program/score.py so that it points to the right prediction files (see instructions in score.py for more detail) and execute it.
@@ -41,9 +41,6 @@ All curves shown in the report are stored in learning_curves/LearningCurvePng/.
 
 
 IV) Pure methods with default hp
-
-
-Note: for sameloss: r2 for regression, bac for classfication.
 
 
 
